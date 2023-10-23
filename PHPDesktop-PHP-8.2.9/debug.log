@@ -43,3 +43,44 @@
 - 13:30:00.000 DEBUG: OnBrowserDestroyed()
 - 13:30:00.344 INFO: Ended application
 - 13:30:00.344 INFO: --------------------------------------------------------
+- 09:27:49.094 INFO: --------------------------------------------------------
+- 09:27:49.094 INFO: Started application
+- 09:27:49.094 INFO: Logging to: C:\Users\User\Desktop\Pastas Pessoais\Workspace\Francisco\LaravelPocket\PHPDesktop-PHP-8.2.9\debug.log
+- 09:27:49.094 INFO: Log level = DEBUG4
+- 09:27:49.094 INFO: Starting Mongoose 3.9c web server
+- 09:27:49.094 INFO: WWW directory: C:\Users\User\Desktop\Pastas Pessoais\Workspace\Francisco\LaravelPocket\PHPDesktop-PHP-8.2.9\www
+- 09:27:49.094 INFO: Index files: index.html,index.php
+- 09:27:49.094 INFO: CGI interpreter: C:\Users\User\Desktop\Pastas Pessoais\Workspace\Francisco\LaravelPocket\PHPDesktop-PHP-8.2.9\php\php-cgi.exe
+- 09:27:49.094 INFO: CGI pattern: **.php$
+- 09:27:49.094 INFO: Hide files patterns: 
+- 09:27:49.094 INFO: CGI environment variables set: TMP=C:\Users\User\AppData\Local\Temp\,TEMP=C:\Users\User\AppData\Local\Temp\,TMPDIR=C:\Users\User\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 09:27:49.109 INFO: Web server url: http://127.0.0.1:60605/
+- 09:27:49.109 INFO: remote_debugging_port = 60798
+- 09:27:49.125 DEBUG: Command line string for the browser process: "C:\Users\User\Desktop\Pastas Pessoais\Workspace\Francisco\LaravelPocket\PHPDesktop-PHP-8.2.9\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="C:\Users\User\Desktop\Pastas Pessoais\Workspace\Francisco\LaravelPocket\PHPDesktop-PHP-8.2.9\debug.log" --remote-debugging-port=60798
+- 09:27:49.016 DEBUG: Command line string for the gpu-process process: "C:\Users\User\Desktop\Pastas Pessoais\Workspace\Francisco\LaravelPocket\PHPDesktop-PHP-8.2.9\phpdesktop-chrome.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="C:\Users\User\Desktop\Pastas Pessoais\Workspace\Francisco\LaravelPocket\PHPDesktop-PHP-8.2.9\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x1912 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=31.0.101.2111 --gpu-driver-date=7-19-2022 --lang=en-US --log-file="C:\Users\User\Desktop\Pastas Pessoais\Workspace\Francisco\LaravelPocket\PHPDesktop-PHP-8.2.9\debug.log" --service-request-channel-token=4CE2D6F6851142E2CFE73C1D3ACDAD2B --mojo-platform-channel-handle=1844 /prefetch:2
+- 09:27:49.547 DEBUG: App::OnContextInitialized()
+- 09:27:49.547 DEBUG: Window max width/height = 1840/992
+- 09:27:49.547 DEBUG: GetBrowserWindow(): not found, hwnd = 3540982
+- 09:27:49.547 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 09:27:49.562 DEBUG: BrowserWindow::CreateBrowserControl()
+- 09:27:49.562 DEBUG: StoreBrowserWindow(): hwnd = 3540982
+- 09:27:49.641 DEBUG: ClientHandler::OnAfterCreated()
+- 09:27:49.641 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 09:27:49.672 DEBUG: OnLoadingStateChange: loading=1, url=
+- 09:27:49.000 DEBUG: Command line string for the renderer process: "C:\Users\User\Desktop\Pastas Pessoais\Workspace\Francisco\LaravelPocket\PHPDesktop-PHP-8.2.9\phpdesktop-chrome.exe" --type=renderer --no-sandbox --primordial-pipe-token=AAD352C0DD0AF05404CED578ADFFCBE5 --lang=en-US --lang=en-US --log-file="C:\Users\User\Desktop\Pastas Pessoais\Workspace\Francisco\LaravelPocket\PHPDesktop-PHP-8.2.9\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=AAD352C0DD0AF05404CED578ADFFCBE5 --renderer-client-id=3 --mojo-platform-channel-handle=2420 /prefetch:1
+- 09:27:50.125 DEBUG: OnBrowserCreated()
+[1023/092750.670:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 09:27:51.906 INFO: GET 200 /
+- 09:27:51.062 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:60605/
+- 09:28:00.906 DEBUG: WM_DESTROY
+- 09:28:00.906 DEBUG: RemoveBrowserWindow(): hwnd = 3540982
+- 09:28:00.906 INFO: Stopping Mongoose web server
+- 09:28:00.906 DEBUG: Mongoose webserver stopped immediately
+- 09:28:00.906 DEBUG: OnBeforeClose() hwnd=2689250
+- 09:28:00.906 DEBUG: RemoveBrowserWindow(): hwnd = 2689250
+- 09:28:00.906 DEBUG: GetBrowserWindow(): not found, hwnd = 2689250
+- 09:28:00.922 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 09:28:00.922 DEBUG: Calling CefQuitMessageLoop()
+- 09:28:00.250 DEBUG: OnBrowserDestroyed()
+- 09:28:00.969 INFO: Ended application
+- 09:28:00.969 INFO: --------------------------------------------------------
